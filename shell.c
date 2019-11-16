@@ -7,7 +7,6 @@ int main()
 	int i, j, b, step;
 	int const k = 8;
 	int a[k];
-	int nov[k];
 
 	printf("Vvedite massiv\n");
 	for (i = 0; i < k; i++)
